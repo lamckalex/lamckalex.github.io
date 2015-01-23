@@ -1,3 +1,3 @@
 # lamckalex.github.io
 
-Temporary site using a template by http://html5up.net/
+A site to share a little about me.
