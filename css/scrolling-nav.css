@@ -32,14 +32,16 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .white-section {
-    padding-top: 200px;
+	min-height: 100%;
+    padding-top: 100px;
 	padding-bottom: 300px;
     text-align: center;
     background: #fff;
 }
 
 .gray-section {
-    padding-top: 200px;
+	min-height: 100%;
+    padding-top: 100px;
 	padding-bottom: 300px;
     text-align: center;
     background: #eee;
