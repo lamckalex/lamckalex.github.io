@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', Georgia, Times, serif;
+}
+p, div {
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
+
+.white-section {
+	min-height: 100%;
+    padding-top: 100px;
+	padding-bottom: 300px;
+    text-align: center;
+    /*background: #fff;*/
+	background: url(../images/cubes.png) repeat 0 0;
+}
+
+.gray-section {
+	min-height: 100%;
+    padding-top: 100px;
+	padding-bottom: 300px;
+    text-align: center;
+    background: #eee;
+	background: url(../images/geometry2.png) repeat 0 0;
+}
+
+.longer-section{
+	height:150%;
+}
